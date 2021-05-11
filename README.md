@@ -6,12 +6,12 @@ Built by: Madhavendra Pratap Singh (2K19/CO/209)
 
 - Homecreen Tab:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mps01/multimedia-encoder-algo-app/master/assets/img/Screenshot%20HOMEPAGE.png"  alt="Homescreen Tab image" width=400/>
+  <img src="https://raw.githubusercontent.com/mps01/multimedia-encoder-algo-app/master/assets/img/Screenshot%20HOMEPAGE.png"  alt="Homescreen Tab image" width=1000/>
 </p>
 <br>
 - About us:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mps01/multimedia-encoder-algo-app/master/assets/img/Screenshot%20ABOUT.png"  alt="About Tab image" width=400/>
+  <img src="https://raw.githubusercontent.com/mps01/multimedia-encoder-algo-app/master/assets/img/Screenshot%20ABOUT.png"  alt="About Tab image" width=1000/>
 </p>
 <br>
 ## Getting Started
