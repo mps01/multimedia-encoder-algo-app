@@ -1,7 +1,19 @@
-# adaproject_cryptic
+# ADA Project
+Learn, visualize and play around some of the popular multimedia compression/encoding algorithm, right from your smartphone.
+Built by: Madhavendra Pratap Singh (2K19/CO/209)
+          Manan Sharma (2K19/CO/212)
+## Screenshots
 
-A new Flutter project.
-
+- Homecreen Tab:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mps01/multimedia-encoder-algo-app/master/assets/img/Screenshot%20HOMEPAGE.png"  alt="Homescreen Tab image" width=400/>
+</p>
+<br>
+- About us:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mps01/multimedia-encoder-algo-app/master/assets/img/Screenshot%20ABOUT.png"  alt="About Tab image" width=400/>
+</p>
+<br>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
